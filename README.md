@@ -7,7 +7,7 @@
     <h1>My presentation:</h1>
 </div>
 <div class="container"
-    <h2> 1 </h2>
+    <h2> 1.  </h2>
 </body>
 </html><!--
 **Luisgab1209/Luisgab1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
