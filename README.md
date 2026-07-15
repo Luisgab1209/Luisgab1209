@@ -1,7 +1,6 @@
 <h1>¡Hola! Soy Luis 👋</h1>
 <p>
-Estudiante de programación apasionado por el desarrollo web,
-la tecnología y el aprendizaje continuo.
+Estudiante de programación continuo a mejorar y el desarrollo web para un bien en comun
 </p>
 </header>
 <div class="contenedor">
