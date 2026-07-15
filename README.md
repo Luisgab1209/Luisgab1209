@@ -1,10 +1,10 @@
 ## Hi there my name is Luis Gabriel 👋
-}
+
 </head>
 
 <body>
 <div class="container">
-    <h1>My presentation</h1>
+    <h1>My presentation:</h1>
 </div>
 </body>
 </html><!--
