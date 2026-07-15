@@ -1,6 +1,5 @@
 ## Hi there my name is Luis Gabriel 👋
 }
-</style>
 </head>
 
 <body>
