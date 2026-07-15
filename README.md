@@ -8,12 +8,13 @@ la tecnología y el aprendizaje continuo.
 <div class="tarjeta">
 <h2>💻 Desarrollo Web</h2>
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+  <p>Estoy desarrolando una pagina web acerca del VIH y sus tratamientos</p>
 </div>
 <div class="tarjeta">
 <h2>🚀 Programación</h2>
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 <p>
-Actualmente se un poco de CSS, HTML, y ahora gifthub
+Actualmente se un poco de CSS, HTML, VS y ahora gifthub
 </p>
 </div>
 <div class="tarjeta">
@@ -26,7 +27,7 @@ Convertirme en desarrollador profesional y crear proyectos innovadores.
 </div>
 <footer>
 <h3>Tecnologías que uso</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode">
+<img src="https://skillicons.dev/icons?i=html,css,github,vscode">
 </footer>
 </body>
 </html>
