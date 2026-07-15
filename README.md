@@ -8,9 +8,7 @@
 </div>
 <div class="container"
     <p> 1. Se un poco de html, css y ahora proximo a manejar gifthub y otros tipos de programacion </p>
-<div class="centro">
-    <img src="animacion gift" alt="GIF">
-</div>
+
 </body>
 </html><!--
 **Luisgab1209/Luisgab1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
