@@ -8,7 +8,9 @@
 </div>
 <div class="container"
     <p> 1. Se un poco de html, css y ahora proximo a manejar gifthub y otros tipos de programacion </p>
-    <href> https://co.images.search.yahoo.com/search/images;_ylt=AwrNa_PFjldqPAIAdr.rcgx.;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=enlace+gift+programacion&fr2=piv-web&type=E210CO91215G0&fr=mcafee#id=1&iurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fb0%2Fc8%2F19%2Fb0c81961153a56eab83cf03d862345af.gif&action=click </href>
+<div class="centro">
+    <img src="animacion gift" alt="GIF">
+</div>
 </body>
 </html><!--
 **Luisgab1209/Luisgab1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
