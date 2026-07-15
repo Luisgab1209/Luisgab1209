@@ -7,8 +7,8 @@
     <h1>Mi presentacion:</h1>
 </div>
 <div class="container"
-    <p> 1. Se un poco de html, css y ahora proximo a manejar gifthub y otros tipos de programacion
-        2. </p>
+    <p> 1. Se un poco de html, css y ahora proximo a manejar gifthub y otros tipos de programacion </p>
+    <p> 2. </p>
 </body>
 </html><!--
 **Luisgab1209/Luisgab1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
